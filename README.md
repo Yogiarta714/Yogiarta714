@@ -14,7 +14,7 @@ I'm most into frontend development, and I've also worked on backend tasks like b
 ## Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,mysql,git,github,postman,figma,lucidchart" />
+  <img src="https://skillicons.dev/icons?i=vscode,mysql,git,github,postman,figma" />
 </p>
 
 ## Beyond Code
